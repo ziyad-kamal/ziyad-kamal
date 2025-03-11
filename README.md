@@ -1,4 +1,4 @@
-# Hi there,My name is ziyad kamal soliman , I'm a Backend Developer from egypt and I'm 29 years old.👋
+# Hi there.👋,My name is ziyad kamal soliman , I'm a Backend Developer from egypt and I'm 29 years old.
 
 ## 🚀 About Me
 I'm a passionate **Backend Developer** with **2 years of experience** specializing in **Laravel**. I love building scalable and efficient web applications that solve real-world problems.
