@@ -15,7 +15,7 @@ I'm a passionate **Backend Developer** with **2 years of experience** specializi
 I'm constantly learning and improving my skills in Laravel and backend development. Currently exploring **advanced Laravel features**, **security** , **best practices to write clean code** , **API development** and **performance optimization**.
 
 ## 📫 Let's Connect
-- **GitHub:**(https://github.com/ziyad-bit)
+- **GitHub:**(https://github.com/ziyad-kamal)
 - **LinkedIn:**(https://www.linkedin.com/in/ziyad-ali-1030b620a/)
 - **Email:** (ziyad199523@gmail.com)
 
