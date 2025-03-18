@@ -6,10 +6,11 @@ I'm a passionate **Backend Developer** with **2 years of experience** specializi
 ## 🛠️ Technologies & Skills
 - **Backend:** Laravel (PHP Framework)
 - **Database:** MySQL
-- **Frontend Basics:** jQuery, Bootstrap (Basics) ,html  ,css and js
+- **Frontend Basics:** html ,css , js, ajax , jQuery and Bootstrap
 - **API Development:** RESTful APIs
 - **Version Control:** Git & GitHub
 - **Cache:** Redis
+- **websocket:** pusher
 
 ## 📌 What I'm Working On
 I'm constantly learning and improving my skills in Laravel and backend development. Currently exploring **advanced Laravel features**, **security** , **best practices to write clean code** , **API development** and **performance optimization**.
